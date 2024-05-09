@@ -38,4 +38,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: shrikumarudupa/order-service:latest
+          tags: shrikumarudupa/user-service:latest
